@@ -10,7 +10,7 @@ const test = () => {
     }
     console.log(`other a: ${a}`);
 }
-
 console.log(`Logged: ${a}`);
 
 test();
+
